@@ -7,6 +7,12 @@ const experiencia = [
     descripción:
       "Silstech se dedica a la gestión y seguridad de unidades de transporte. Durante mi trabajo en Silstech, mis principales responsabilidades incluyeron la maquetación, diseño y programación de vistas y componentes para diversos proyectos, tanto en desarrollo frontend con Vue como en desarrollo mobile con React Native",
   },
+  {
+    lugar: "CodeCave",
+    periodo: "Septiembre 2020 - Agosto 2022",
+    descripción:
+      "Trabaje de manera autonoma en distintos proyectos web para distintos clientes especializado en Html, Css, Js, Vue y NodeJs.",
+  },
 ];
 
 const estudios = [
