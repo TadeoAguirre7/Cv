@@ -13,6 +13,18 @@ const experiencia = [
     descripción:
       "Trabaje de manera autonoma en distintos proyectos web para distintos clientes especializado en Html, Css, Js, Vue y NodeJs.",
   },
+  {
+    lugar: "Kummer Argentina",
+    periodo: "Enero 2021 - Enero 2022",
+    descripción:
+      "Formé parte de un proyecto destinado al comercio de productos de distintos clientes, donde me desempeñé en el desarrollo de esta web, sus vistas y sus componentes.",
+  },
+  {
+    lugar: "Kummer Argentina",
+    periodo: "Enero 2021 - Enero 2022",
+    descripción:
+      "Moby es una empresa tecnológica en donde se me encargó el desarrollo de un dashboard dedicado a la gestión de empleados de la misma empresa y distintos clientes. Especializado en Springboot.",
+  },
 ];
 
 const estudios = [
